@@ -10,7 +10,7 @@ When I first opened the game, it was unplayable because the logic was all wrong!
 
 ## 2. How did you use AI as a teammate?
 
-I used Claude Code as my pair programmer to help me figure out how Streamlit works. One "win" was when it suggested using st.rerun() for the New Game button; I knew it worked immediately because the attempt counter actually reset to zero for once!
+I used Claude Code as my pair programmer to help me figure out how Streamlit works. One win was when it suggested  to use st.rerun() for the New Game button. I knew it worked immediately because the attempt counter resetted back to zero 
 ---
 
 ## 3. Debugging and testing your fixes
